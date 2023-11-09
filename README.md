@@ -45,11 +45,11 @@ https://github.com/AdguardTeam/AdGuardHome/wiki
 For issues pertaining with AdGuardHome itself, please refer to this link:
 https://github.com/AdguardTeam/AdGuardHome/issues
 # Changelog:
-https://github.com/jumpsmm7/Asuswrt-Merlin-AdGuardHome-Installer/commits/master
+https://github.com/christantoan/Asuswrt-Merlin-AdGuardHome-Installer/commits/master
 # Install/Update/Reconfig/Uninstall:
 Run this command from ssh shell and following the prompt for AdGuardHome:
 ```
-curl -L -s -k -O https://raw.githubusercontent.com/jumpsmm7/Asuswrt-Merlin-AdGuardHome-Installer/master/installer && sh installer
+curl -L -s -k -O https://raw.githubusercontent.com/christantoan/Asuswrt-Merlin-AdGuardHome-Installer/master/installer && sh installer
 ```
 # Terminal commands to for AdGuardHome are:
 ```
@@ -99,6 +99,6 @@ I also need following information:
 # How I made this:
 - Use AdGuardHome binary packages from https://github.com/AdguardTeam/AdGuardHome
 - I wrote the installer script with stuff inspired from entware-setup.sh from asuswrt-merlin
-- You can look at all the stuff here https://github.com/jumpsmm7/Asuswrt-Merlin-AdGuardHome-Installer
+- You can look at all the stuff here https://github.com/christantoan/Asuswrt-Merlin-AdGuardHome-Installer
 # Donate:
-This script will always be open source and free to use under [GPL-3.0 License](https://raw.githubusercontent.com/jumpsmm7/Asuswrt-Merlin-AdGuardHome-Installer/master/LICENSE), but if you want to support future development you can do so by [Donating With PayPal.](https://paypal.me/swotrb)
+This script will always be open source and free to use under [GPL-3.0 License](https://raw.githubusercontent.com/christantoan/Asuswrt-Merlin-AdGuardHome-Installer/master/LICENSE), but if you want to support future development you can do so by [Donating With PayPal.](https://paypal.me/swotrb)
